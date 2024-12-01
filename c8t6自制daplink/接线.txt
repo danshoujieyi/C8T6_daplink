@@ -1,0 +1,8 @@
+PA9 -- RXD(TTL-USB)
+PA10 -- TXD(TTL-USB)
+PA11 -- USB.D-
+PA12 -- USB.D+
+烧录以后:
+PA2 -- DIO
+PA4 -- CLK
+用usb线上电就可以实现c8t6爆改daplink
